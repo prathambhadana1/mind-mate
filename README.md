@@ -1,5 +1,6 @@
 # mind-mate
 this is my first git repository
 <br>
-Author - prathambhadana
+Author - prathambhadana(prayu)
+
 
